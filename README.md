@@ -1,0 +1,2 @@
+# Motion-recognition-and-data-visualization-in-Android
+This project aims at creating a reliable motion recognition system in Android. The application allows user to record motion related accelerometer data during walking, running and jumping activities in an SQLite Database in mobile's internal storage. This data can then be visualised using a 3D plot and also be used to train SVM for classification of any random motion data in one of the 3 categories of motion namely 'Walking', 
