@@ -17,6 +17,6 @@ START button: Starts recording currently displayed motion data for 5 seconds.
 
 RESET button: Resets data recording counts and motion type along with clearing database.
 
-SVM train button : Trains SVM model with data to enable motion recognition.
+SVM train button : Trains SVM model with data. Also displays the parameters used to train model alongwith accuracy.
 
 PLOT : Plots 3D graph to help visualize data in the database.
